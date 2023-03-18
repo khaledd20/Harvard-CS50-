@@ -3,9 +3,6 @@
 My CS50 Journey: A Harvard Computer Science Overview
 What a wonderful chance I have to take one of the top online introductory computer courses.
 
-
-Welcome to my blog, where I discuss books I'm reading, things I'm learning or have learned, and other things.
-
 Harvard University offers CS50, Introduction to Computer Science and the Art of Programming, every year. Nevertheless, many millions of people now have access to the course materials and tools online, thanks to EDX and David J. Malan.
 
 This course teaches students how to approach problems algorithmically and effectively.
