@@ -24,4 +24,3 @@ I'm beginning this course as a step in my road towards a career in computer scie
 
 This course has an immeasurable amount of my affection, and I will unquestionably finish it. I will pursue certification since I was able to buy it.
 
-You won't regret studying CS50, and it will also benefit you more along your programming adventure, whether you're like me and trying to decide whether to pursue a career in computer science or possibly need to brush up on your understanding of programming fundamentals.
